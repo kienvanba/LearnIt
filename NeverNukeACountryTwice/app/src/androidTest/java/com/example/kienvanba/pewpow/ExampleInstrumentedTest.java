@@ -1,4 +1,4 @@
-package com.example.kienvanba.nevernukeacountrytwice;
+package com.example.kienvanba.pewpow;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

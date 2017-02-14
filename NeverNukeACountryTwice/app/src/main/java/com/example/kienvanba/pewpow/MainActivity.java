@@ -1,10 +1,10 @@
-package com.example.kienvanba.nevernukeacountrytwice;
+package com.example.kienvanba.pewpow;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.EditText;
 
-import com.example.kienvanba.nevernukeacountrytwice.widget.WanaKanaJavaText;
+import com.example.kienvanba.pewpow.widget.WanaKanaJavaText;
 
 public class MainActivity extends AppCompatActivity {
     private EditText et;
