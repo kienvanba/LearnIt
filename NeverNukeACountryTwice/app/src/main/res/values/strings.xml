@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Pew Pow</string>
     <string name="lessons">Lessons</string>
+    <string name="example">type something &#8230;</string>
+    <string name="vocabulary">Vocabulary</string>
+    <string name="grammar">Grammar</string>
 </resources>
