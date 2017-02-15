@@ -4,4 +4,10 @@
     <string name="example">type something &#8230;</string>
     <string name="vocabulary">Vocabulary</string>
     <string name="grammar">Grammar</string>
+
+    <string name="words">Words</string>
+    <string name="kanji">Kanji</string>
+    <string name="mean">Mean</string>
+    <string name="x">X</string>
+    <string name="o">O</string>
 </resources>
